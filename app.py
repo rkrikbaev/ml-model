@@ -9,7 +9,7 @@ from scipy.stats import zscore
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-with open('config.yaml', 'r') as read_config:
+with open('models/config.yaml', 'r') as read_config:
     config = yaml.load(read_config)
     file = config['file']
     model = config['model']
