@@ -1,2 +1,2 @@
-file: "/ml_model/data/data.csv"
-model: "/ml_model/model/prediction_model_1d_north_consumption.h5"
+file: "/opt/ml_model/data/data.csv"
+model: "/opt/ml_model/model/prediction_model_1d_north_consumption.h5"
