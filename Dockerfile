@@ -13,10 +13,8 @@ RUN pip install flask && \
     pip install scipy && \
     pip install pyyaml
 
-
-# copy the pretrained model
-COPY . .
-COPY /models/data /data
-COPY /models/model /model
+RUN mkdir app
+WORKDIR /app
+COPY . /app
 
 CMD ["python", "app.py"]
