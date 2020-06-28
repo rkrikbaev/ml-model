@@ -1,2 +1,2 @@
-file: "models/nc/Datanew2.csv"
-model: "models/nc/prediction_model_1d_north_consumption.h5"
+file: "models/Datanew2.csv"
+model: "models/prediction_model_1d_north_consumption.h5"
