@@ -1,0 +1,2 @@
+file: "models/nc/Datanew4.csv"
+model: "models/nc/prediction_model_1d_south_generation.h5"

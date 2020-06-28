@@ -1,0 +1,2 @@
+file: "models/nc/Datanew2.csv"
+model: "models/nc/prediction_model_1d_north_consumption.h5"
