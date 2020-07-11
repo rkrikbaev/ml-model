@@ -5,4 +5,3 @@ flask
 tensorflow
 numpy
 scipy
-logging
