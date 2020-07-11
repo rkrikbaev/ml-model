@@ -2,6 +2,6 @@ joblib
 pyyaml
 pandas
 flask
-tensorflow
+tensorflow==2.2.0
 numpy
-scipy
+scipy==1.4.1
