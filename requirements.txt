@@ -1,0 +1,8 @@
+joblib
+pyyaml
+pandas
+flask
+tensorflow
+numpy
+scipy
+logging

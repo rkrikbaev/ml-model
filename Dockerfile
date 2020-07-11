@@ -11,7 +11,8 @@ RUN pip install flask && \
     pip install pandas && \
     pip install numpy && \
     pip install scipy && \
-    pip install pyyaml
+    pip install pyyaml && \
+    pip install logging
 
 RUN mkdir app
 WORKDIR /app

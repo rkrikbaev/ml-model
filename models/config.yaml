@@ -1,0 +1,12 @@
+file: "models/Datanew2.csv"
+model: "models/prediction_model_1d_north_consumption.h5"
+noise: 0.25
+hours_prior: 0
+holidays:
+  - "New Year's Day"
+  - "Womens Day"
+  - "Independence Day"
+  - "Astana Day"
+  - "Victory Day"
+  - "Labor Day"
+  - "Constitution Day"
