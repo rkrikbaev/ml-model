@@ -6,6 +6,7 @@ RUN apt-get update && \
     apt-get -y upgrade
 
 # Install dependencies
+COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 RUN mkdir app
